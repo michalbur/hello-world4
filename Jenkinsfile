@@ -1,11 +1,11 @@
-pipeline {
-  agent any
+// pipeline {
+//   agent any
   
-  stages {
-    stage('deploy') {
-      steps {
-        echo "Deplo4y" 
-      }
-    }
-  }
-}
+//   stages {
+//     stage('deploy') {
+//       steps {
+//         echo "Deplo4y" 
+//       }
+//     }
+//   }
+// }
